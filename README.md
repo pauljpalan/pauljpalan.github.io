@@ -1,11 +1,13 @@
 # Paul Palan - Data Scientist
 
 ## Education
+* * *
 - Certificate in Data Sience and Machine Learning - MIT IDSS
 - M.F.A. Theatre Lighting - Boston University
 - B.S. Theatre - University of Wisconsin-Madison
 
 ## Projects
+* * *
 - [Product Recommendation System for Amazon Users](https://github.com/pauljpalan/Amazon-Recommendation-System)
   - Built rank-based, similarity-based and matrix factorization models in Python to generate product recommendations.
   - Utilized hyper-parameter tuning via grid search to improve similarity-based and matrix factorization model performance.
@@ -23,6 +25,7 @@
   - Identified key customers and restaurants based on reviews and order history to provide promotional offers and discounts to.
 
 ## Work Experience
+* * *
 - Lighting Designer II, Project Manager - BOLD LLC, Los Angeles, CA: 05/2022 – 08/2023
   - Project managed up to 10 concurrent projects, including timeline, task and budget management, external partners team coordination and client status meetings to ensure project delivers on time and on budget.
   - Created and led client design and strategy presentations.
