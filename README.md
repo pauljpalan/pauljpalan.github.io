@@ -1,8 +1,8 @@
-# pauljpalan.github.io
+#pauljpalan.github.io
 
 # Paul Palan - Data Scientist
 
-### Education
+## Education
 M.I.T. Certificate in Data Sience
 M.F.A. Theatre Lighting - Boston University
 B.S. Theatre - University of Wisconsin-Madison
