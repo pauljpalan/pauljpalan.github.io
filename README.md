@@ -23,18 +23,18 @@
   - Identified key customers and restaurants based on reviews and order history to provide promotional offers and discounts to.
 
 ## Work Experience
-- Lighting Designer II, Project Manager | BOLD LLC, Los Angeles, CA |	05/2022 – 08/2023
+- Lighting Designer II, Project Manager - BOLD LLC, Los Angeles, CA: 05/2022 – 08/2023
   - Project managed up to 10 concurrent projects, including timeline, task and budget management, external partners team coordination and client status meetings to ensure project delivers on time and on budget.
   - Created and led client design and strategy presentations.
 
-- Lighting Supervisor | University of California Los Angeles | Los Angeles, CA 	09/2018 – 05/2022
+- Lighting Supervisor - University of California Los Angeles, Los Angeles, CA: 09/2018 – 05/2022
   - Managed department lighting budget and timelines for all productions.
   - Increased efficiency by creating a custom Airtable database solution to manage inventory of stock materials, allowing students to make selections accurately, quickly and remotely.
 
-- Production Manager | M.R.B. Productions | Los Angeles, CA 	01/2018 – 08/2018
+- Production Manager - M.R.B. Productions, Los Angeles, CA: 01/2018 – 08/2018
   - Managed hiring and payroll of production crews, as well as expense tracking and reporting, and rental negotiations.
   - Created a custom Airtable database to manage flights, transportation and accommodations for 150+ award recipients for the ESPN ESPY Awards.
 
-- Assistant Lighting Designer | San Francisco Opera | San Francisco, CA 	Fall 2017
+- Assistant Lighting Designer - San Francisco Opera, San Francisco, CA: Fall 2017
   - Produced and finalized full archival documentation for all lighting designs in the fall season.
   - Integrated lighting design documentation within the existing electricians MS Access database to eliminate multiple redundant data sources, decrease errors in paperwork and increase efficiency of daily operations.
